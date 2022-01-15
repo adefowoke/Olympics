@@ -9,3 +9,6 @@ cleaning/sorting the data: it involves checking for missing values, duplicate va
 Describing data: this involves use of inbuilt methods and function to have an overview of what the data entails and this perhaps guide you on how you what to present your data
 
 visualization: Helps display the insights gleamed from the data visually, and saves you time and energy trying to explain what messsage you want to convey
+
+
+![Olympic 2021](https://storage.googleapis.com/kaggle-datasets-images/1487944/2458239/6a1de82abc683361691072d587867b14/dataset-thumbnail.jpg?t=2021-07-24-14-24-17)
