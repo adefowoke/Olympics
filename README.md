@@ -10,5 +10,4 @@ Describing data: this involves use of inbuilt methods and function to have an ov
 
 visualization: Helps display the insights gleamed from the data visually, and saves you time and energy trying to explain what messsage you want to convey
 
-
-![Olympic 2021](/assets/image/Olympics/Summer_Olympics_2021_logo.png)
+![Summer_Olympics_2021_logo2](https://user-images.githubusercontent.com/35836370/149678219-5d80ba5f-a3e8-4200-a4d4-544cc701883b.png)
